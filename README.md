@@ -1,3 +1,4 @@
 # javaBasicTraining
-Formation Java - TP Journée 1
-Dév réalisé avec NetBeans
+
+* Formation Java - TP Journée 1
+* Dev repris pour NetBeans
